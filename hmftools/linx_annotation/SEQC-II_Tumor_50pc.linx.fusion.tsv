@@ -1,0 +1,2 @@
+fivePrimeBreakendId	threePrimeBreakendId	name	reported	reportedType	phased	likelihood	chainLength	chainLinks	chainTerminated	domainsKept	domainsLost	skippedExonsUp	skippedExonsDown	fusedExonUp	fusedExonDown	geneStart	geneContextStart	transcriptStart	geneEnd	geneContextEnd	transcriptEnd	junctionCopyNumber
+5	8	PTEN_VMP1	false	NONE	OUT_OF_FRAME	NA	0	0	true			0	0	1	8	PTEN	Exon 1	ENST00000371953	VMP1	Exon 8	ENST00000262291	0.9643

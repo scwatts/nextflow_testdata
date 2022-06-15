@@ -1,0 +1,4 @@
+SampleId	ClusterId	ChainId	SvId	Type	ResolvedType	IsSynthetic	ChrStart	ChrEnd	PosStart	PosEnd	OrientStart	OrientEnd	InfoStart	InfoEnd	JunctionCopyNumber	InDoubleMinute
+SEQC-II_Tumor_50pc	1	1	0	DEL	DEL	false	chr10	chr10	87954021	88010561	1	-1	NORMAL	NORMAL	0.9683	false
+SEQC-II_Tumor_50pc	0	0	1	BND	DUP	true	chr10	chr17	87887149	59785545	1	-1	NORMAL	NORMAL	0.9643	false
+SEQC-II_Tumor_50pc	0	0	2	BND	DUP	true	chr10	chr17	87773108	59785670	-1	1	NORMAL	NORMAL	0.9099	false

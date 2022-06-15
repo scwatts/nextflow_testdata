@@ -1,0 +1,3 @@
+id	subject_name	sample_name	sample_type	filetype	filepath
+SEQC	SEQC	SEQC-II_Tumor_50pc	tumor	bam	/Users/stephen/repos/nextflow_testdata/hmftools/read_sets/SEQC-II_Tumor_50pc-ready.bam
+SEQC	SEQC	SEQC-II_Normal	normal	bam	/Users/stephen/repos/nextflow_testdata/hmftools/read_sets/SEQC-II_Normal-ready.bam

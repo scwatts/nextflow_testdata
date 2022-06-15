@@ -1,0 +1,92 @@
+debuggroup summary 0.14s welcome to circos v0.69-8 15 Jun 2019 on Perl 5.032001
+debuggroup summary 0.14s current working directory /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645
+debuggroup summary 0.14s command /usr/local/bin/circos -nosvg -conf /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.circos.003.conf -outputdir /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/plot -outputfile SEQC-II_Tumor_50pc.cluster1.DEL.sv1.003.png
+debuggroup summary 0.14s loading configuration from file /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.circos.003.conf
+debuggroup summary 0.15s found conf file /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.circos.003.conf
+debuggroup summary 0.27s debug will appear for these features: output,summary
+debuggroup summary 0.27s bitmap output image /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/plot/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.003.png
+debuggroup summary 0.27s parsing karyotype and organizing ideograms
+debuggroup summary 0.28s karyotype has 1 chromosomes of total size 1,072
+debuggroup summary 0.28s applying global and local scaling
+debuggroup summary 0.28s allocating image, colors and brushes
+debuggroup summary 1.94s drawing 1 ideograms of total size 1,072
+debuggroup summary 1.94s drawing highlights and ideograms
+debuggroup summary 1.94s found conf file /usr/local/bin/../etc/tracks/highlight.bg.conf
+debuggroup summary 1.94s found conf file /usr/local/bin/../etc/tracks/highlight.bg.conf
+debuggroup summary 1.94s found conf file /usr/local/bin/../etc/tracks/highlight.bg.conf
+debuggroup summary 1.95s process track_0 highlight /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.gene.circos
+debuggroup summary 1.96s process track_1 highlight /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.exon.circos
+debuggroup summary 1.97s process track_2 highlight /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.segment.circos
+debuggroup summary 2.02s found conf file /usr/local/bin/../etc/tracks/link.conf
+debuggroup summary 2.03s process track_0 link /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.link.circos
+debuggroup summary 2.03s drawing link track_0 z 0
+WARNING *** Track id [track_3] has no type definition. This is alright if you're using the track for side-effects like axes and backgrounds.
+WARNING *** Track id [track_3] of type [_undef_] has no file definition. This is alright if you're using the track for side-effects like axes and backgrounds.
+debuggroup summary 2.03s found conf file /usr/local/bin/../etc/tracks/text.conf
+debuggroup summary 2.04s found conf file /usr/local/bin/../etc/tracks/text.conf
+debuggroup summary 2.04s found conf file /usr/local/bin/../etc/tracks/text.conf
+debuggroup summary 2.04s found conf file /usr/local/bin/../etc/tracks/histogram.conf
+debuggroup summary 2.04s found conf file /usr/local/bin/../etc/tracks/text.conf
+debuggroup summary 2.04s found conf file /usr/local/bin/../etc/tracks/histogram.conf
+debuggroup summary 2.05s found conf file /usr/local/bin/../etc/tracks/histogram.conf
+debuggroup summary 2.05s found conf file /usr/local/bin/../etc/tracks/histogram.conf
+debuggroup summary 2.05s found conf file /usr/local/bin/../etc/tracks/connector.conf
+debuggroup summary 2.06s found conf file /usr/local/bin/../etc/tracks/scatter.conf
+debuggroup summary 2.06s found conf file /usr/local/bin/../etc/tracks/scatter.conf
+debuggroup summary 2.06s found conf file /usr/local/bin/../etc/tracks/highlight.conf
+debuggroup summary 2.06s found conf file /usr/local/bin/../etc/tracks/highlight.conf
+debuggroup summary 2.07s processing track_0 text /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.position.circos
+debuggroup summary 2.08s processing track_1 text /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.exon.rank.circos
+debuggroup summary 2.09s processing track_2 text /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.gene.name.circos
+debuggroup summary 2.10s processing track_4 histogram /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.cna.circos
+debuggroup summary 2.11s processing track_5 text /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.distance.circos
+debuggroup summary 2.12s processing track_6 histogram /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.cna.circos
+debuggroup summary 2.13s processing track_7 histogram /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.map.circos
+debuggroup summary 2.14s processing track_8 histogram /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.map.circos
+debuggroup summary 2.15s processing track_9 connector /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.connector.circos
+debuggroup summary 2.16s processing track_10 scatter /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.scatter.circos
+debuggroup summary 2.18s processing track_11 scatter /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.scatter.sgl.circos
+debuggroup summary 2.18s processing track_12 highlight /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.line_element.circos
+debuggroup summary 2.19s processing track_13 highlight /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/data/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.fragile.circos
+debuggroup summary 2.19s drawing track_0 text z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.position.circos 
+debuggroup summary 2.19s placing text track SEQC-II_Tumor_50pc.cluster1.DEL.sv1.position.circos
+debuggroup summary 2.19s ... see progress with -debug_group text
+debuggroup summary 2.19s ... see placement summary with -debug_group textplace
+debuggroup summary 2.25s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.27s drawing track_1 text z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.exon.rank.circos 
+debuggroup summary 2.27s placing text track SEQC-II_Tumor_50pc.cluster1.DEL.sv1.exon.rank.circos
+debuggroup summary 2.27s ... see progress with -debug_group text
+debuggroup summary 2.27s ... see placement summary with -debug_group textplace
+debuggroup summary 2.30s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.31s drawing track_2 text z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.gene.name.circos 
+debuggroup summary 2.31s placing text track SEQC-II_Tumor_50pc.cluster1.DEL.sv1.gene.name.circos
+debuggroup summary 2.31s ... see progress with -debug_group text
+debuggroup summary 2.31s ... see placement summary with -debug_group textplace
+debuggroup summary 2.34s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.35s drawing track_3 _undef_ z 0 no_file 
+debuggroup summary 2.35s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.38s drawing track_4 histogram z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.cna.circos orient out
+debuggroup summary 2.38s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.41s drawing track_5 text z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.distance.circos 
+debuggroup summary 2.41s placing text track SEQC-II_Tumor_50pc.cluster1.DEL.sv1.distance.circos
+debuggroup summary 2.41s ... see progress with -debug_group text
+debuggroup summary 2.41s ... see placement summary with -debug_group textplace
+debuggroup summary 2.45s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.45s drawing track_6 histogram z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.cna.circos orient out
+debuggroup summary 2.45s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.48s drawing track_7 histogram z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.map.circos orient out
+debuggroup summary 2.48s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.50s drawing track_8 histogram z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.map.circos orient out
+debuggroup summary 2.50s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.52s drawing track_9 connector z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.connector.circos 
+debuggroup summary 2.53s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.53s drawing track_10 scatter z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.scatter.circos orient out
+debuggroup summary 2.53s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.53s drawing track_11 scatter z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.scatter.sgl.circos orient out
+debuggroup summary 2.54s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.54s drawing track_12 highlight z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.line_element.circos 
+debuggroup summary 2.54s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup summary 2.54s drawing track_13 highlight z 0 SEQC-II_Tumor_50pc.cluster1.DEL.sv1.fragile.circos 
+debuggroup summary 2.54s found conf file /usr/local/bin/../etc/tracks/axis.conf
+debuggroup output 2.54s generating output
+debuggroup output 2.89s created PNG image /Users/stephen/repos/nextflow_pipelines/hmftools/work/77/9ad61ae066575090dc0fd6ba640645/linx_visualiser/plot/SEQC-II_Tumor_50pc.cluster1.DEL.sv1.003.png (308 kb)

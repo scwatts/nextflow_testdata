@@ -1,0 +1,5 @@
+@HD	VN:1.0	SO:coordinate
+@SQ	SN:chr10	LN:133797422
+@SQ	SN:chr17	LN:83257441
+chr10	87736199	88056500	+	target_1
+chr17	59748499	59828700	+	target_2

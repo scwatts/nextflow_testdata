@@ -1,0 +1,6 @@
+SampleId	ClusterId	ChainId	Chromosome	PosStart	PosEnd	LinkPloidy	InDoubleMinute
+SEQC-II_Tumor_50pc	0	0	chr10	C	87887149	0.9371	false
+SEQC-II_Tumor_50pc	0	0	chr17	59785545	59785670	0.9371	false
+SEQC-II_Tumor_50pc	0	0	chr10	87773108	T	0.9371	false
+SEQC-II_Tumor_50pc	1	1	chr10	C	87954021	0.9683	false
+SEQC-II_Tumor_50pc	1	1	chr10	88010561	T	0.9683	false

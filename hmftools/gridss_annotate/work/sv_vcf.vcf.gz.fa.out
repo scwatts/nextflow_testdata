@@ -1,0 +1,18 @@
+   SW   perc perc perc  query            position in query    matching   repeat           position in repeat
+score   div. del. ins.  sequence         begin end   (left)   repeat     class/family   begin  end    (left)  ID
+
+   25   21.4  3.9  1.2  gridss176b_161b      5    82    (0) + (TTTTTTA)n Simple_repeat       1     80    (0)   1  
+   14   17.0  0.0  2.9  gridss176b_230b     76   110    (9) + A-rich     Low_complexity      1     34    (0)   2  
+   20    9.2  0.0  2.8  gridss176b_60b       1    37   (82) + (AAAAAAG)n Simple_repeat       1     36    (0)   3  
+   46   15.8  0.0  0.0  gridss176b_78b       1    77    (0) + A-rich     Low_complexity      1     77    (0)   4  
+   12   19.6  2.9  0.0  gridss176f_110b      1    35   (29) + (TTTTGT)n  Simple_repeat       1     36    (0)   5  
+   21    0.0  0.0  0.0  gridss176f_194b      1    23    (0) + (C)n       Simple_repeat       1     23    (0)   6  
+  521    3.1  0.0  0.0  gridss176f_364b      2    65    (0) + Alu        SINE/Alu            1     64  (237)   7  
+   12   21.8  2.2  4.4  gridss176f_92b       1    46   (15) + (AACA)n    Simple_repeat       1     45    (0)   8  
+   30    0.0  0.0  0.0  gridss176fb_1h       1    26    (0) + (AC)n      Simple_repeat       1     26    (0)   9  
+   30    0.0  0.0  0.0  gridss176fb_1o       1    26    (0) + (AC)n      Simple_repeat       1     26    (0)  10  
+   40    0.0  0.0  0.0  gridss176fb_48h      1    34    (0) + (GT)n      Simple_repeat       1     34    (0)  11  
+   40    0.0  0.0  0.0  gridss176fb_48o      1    34    (0) + (GT)n      Simple_repeat       1     34    (0)  12  
+   24   15.0  7.3  1.4  gridss255b_42b       1    68   (19) + A-rich     Low_complexity      1     72    (0)  13  
+  356   12.2  0.0  0.0  gridss255f_139b      1    49    (1) + AluJb      SINE/Alu           59    107  (205)  14  
+   17   20.1  0.0  0.0  gridss255f_33b       1    34   (28) + (T)n       Simple_repeat       1     34    (0)  15  

@@ -1,0 +1,2 @@
+clusterId	chainId	chainIndex	chainCount	lowerSvId	upperSvId	lowerBreakendIsStart	upperBreakendIsStart	chromosome	arm	assembled	traversedSVCount	length	junctionCopyNumber	junctionCopyNumberUncertainty	pseudogeneInfo	ecDna
+0	0	0	2	1	2	false	false	chr17	Q	true	0	125	0.9371	0.0867		false

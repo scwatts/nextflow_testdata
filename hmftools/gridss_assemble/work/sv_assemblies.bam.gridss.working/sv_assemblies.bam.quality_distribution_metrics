@@ -1,0 +1,63 @@
+## htsjdk.samtools.metrics.StringHeader
+# CollectGridssMetrics GRIDSS_PROGRAM=[CollectCigarMetrics, CollectMapqMetrics, CollectTagMetrics, CollectIdsvMetrics, ReportThresholdCoverage] THRESHOLD_COVERAGE=50000 INPUT=gridss_assemble/sv_assemblies.bam OUTPUT=gridss_assemble/work/sv_assemblies.bam.gridss.working//sv_assemblies.bam FILE_EXTENSION=null PROGRAM=[QualityScoreDistribution] TMP_DIR=[gridss_assemble/work] REFERENCE_SEQUENCE=umccrise_hg38/hg38.fa    ASSUME_SORTED=true STOP_AFTER=0 METRIC_ACCUMULATION_LEVEL=[ALL_READS] INCLUDE_UNPAIRED=false VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: Wed Jun 15 03:49:36 UTC 2022
+
+
+## HISTOGRAM	java.lang.Byte
+QUALITY	COUNT_OF_Q
+9	377
+10	102
+11	111
+12	103
+13	2602
+14	135
+15	90
+16	65
+17	85
+18	67
+19	81
+20	78
+21	385
+22	57
+23	120
+24	87
+25	72
+26	120
+27	88
+28	198
+29	112
+30	96
+31	91
+32	102
+33	253
+34	127
+35	129
+36	199
+37	153
+38	192
+39	158
+40	194
+41	102
+42	209
+43	91
+44	74
+45	89
+46	92
+47	78
+48	78
+49	80
+50	83
+51	78
+52	94
+53	66
+54	98
+55	87
+56	111
+57	84
+58	72
+59	77
+60	88
+61	77
+62	14788
+

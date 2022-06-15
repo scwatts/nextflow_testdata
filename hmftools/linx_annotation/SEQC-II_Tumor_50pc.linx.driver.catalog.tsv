@@ -1,0 +1,2 @@
+chromosome	chromosomeBand	gene	transcript	isCanonical	driver	category	likelihoodMethod	driverLikelihood	missense	nonsense	splice	inframe	frameshift	biallelic	minCopyNumber	maxCopyNumber
+chr10	q23.31	PTEN	ENST00000371953	true	DEL	TSG	DEL	1.0000	0	0	0	0	0	true	-0.0139	1.8966

@@ -1,0 +1,62 @@
+## htsjdk.samtools.metrics.StringHeader
+# CollectGridssMetricsAndExtractSVReads MIN_CLIP_LENGTH=5 READ_PAIR_CONCORDANT_PERCENT=0.995 INSERT_SIZE_METRICS=gridss_preprocess/SEQC-II_Tumor_50pc-ready.targeted.bam.gridss.working/tmp.SEQC-II_Tumor_50pc-ready.targeted.bam.insert_size_metrics UNMAPPED_READS=false INCLUDE_DUPLICATES=true SV_OUTPUT=/dev/stdout GRIDSS_PROGRAM=[CollectCigarMetrics, CollectMapqMetrics, CollectTagMetrics, CollectIdsvMetrics, ReportThresholdCoverage] THRESHOLD_COVERAGE=50000 INPUT=SEQC-II_Tumor_50pc-ready.targeted.bam ASSUME_SORTED=true OUTPUT=gridss_preprocess/SEQC-II_Tumor_50pc-ready.targeted.bam.gridss.working/SEQC-II_Tumor_50pc-ready.targeted.bam FILE_EXTENSION=null PROGRAM=[CollectInsertSizeMetrics] TMP_DIR=[gridss_preprocess/SEQC-II_Tumor_50pc-ready.targeted.bam.gridss.working] COMPRESSION_LEVEL=0 REFERENCE_SEQUENCE=umccrise_hg38/hg38.fa    MIN_INDEL_SIZE=1 CLIPPED=true INDELS=true SPLIT=true SINGLE_MAPPED_PAIRED=true DISCORDANT_READ_PAIRS=true STOP_AFTER=0 METRIC_ACCUMULATION_LEVEL=[ALL_READS] INCLUDE_UNPAIRED=false VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false
+## htsjdk.samtools.metrics.StringHeader
+# Started on: Wed Jun 15 02:08:42 UTC 2022
+
+## METRICS CLASS	gridss.analysis.MapqMetrics
+MAX_MAPQ	MIN_MAPQ	MAPPED_READS	UNKNOWN_MAPQ	ZERO_MAPQ	SAMPLE	LIBRARY	READ_GROUP
+60	0	28191	0	41			
+
+## HISTOGRAM	java.lang.Integer
+mapq	All_Reads.
+0	41
+1	4
+2	1
+3	2
+4	2
+6	2
+9	1
+10	1
+11	1
+12	2
+14	1
+16	2
+17	2
+18	1
+21	1
+22	2
+23	1
+24	2
+25	1
+26	1
+28	1
+29	3
+30	8
+31	2
+33	1
+35	1
+36	3
+37	2
+38	1
+40	87
+41	1
+42	5
+43	13
+44	4
+45	6
+46	7
+47	5
+48	11
+49	5
+50	5
+51	1
+52	7
+53	3
+54	13
+55	5
+56	4
+57	4
+58	8
+59	6
+60	27898
+

@@ -1,0 +1,1248 @@
+25 21.40 3.85 1.25 gridss176b_161b 5 82 (0) (TTTTTTA)n#Simple_repeat 1 80 (0) m_b1s252i9
+
+  gridss176b_16          5 TTTTTTATTTATTTTTTTTTTATTTTTT-TGAATGA-TTTTTA-ATTTAA 51
+                                     -   v             - vvv v -      -v   v 
+  (TTTTTTA)n#Si          1 TTTTTTATTT-TTTATTTTTTATTTTTTATTTTTTATTTTTTATTTTTTA 49
+
+  gridss176b_16         52 ATTTTAAAATTTAATTTTTTTTTTTTTGTTT 82
+                           v    v vv   v       v      i   
+  (TTTTTTA)n#Si         50 TTTTTTATTTTTTATTTTTTATTTTTTATTT 80
+
+Matrix = Unknown
+Transitions / transversions = 0.08 (1/13)
+Gap_init rate = 0.05 (4 / 77), avg. gap size = 1.00 (4 / 4)
+
+14 17.04 0.00 2.94 gridss176b_230b 76 110 (9) (AAGAAA)n#Simple_repeat 1 34 (0) m_b1s252i8
+
+  gridss176b_23         76 AAGACAATGAAAAAAAAAAAAGAAAAAGAGGAAGA 110
+                               v  v -     i             ii    
+  (AAGAAA)n#Sim          1 AAGAAAAAG-AAAAAGAAAAAGAAAAAGAAAAAGA 34
+
+Matrix = Unknown
+Transitions / transversions = 1.50 (3/2)
+Gap_init rate = 0.03 (1 / 34), avg. gap size = 1.00 (1 / 1)
+
+17 20.23 0.00 0.00 gridss176b_60b 1 34 (85) (A)n#Simple_repeat 1 34 (0) m_b1s252i6
+
+  gridss176b_60          1 AAAAAAGATAAAAGAAAACAAGAAAAAATAAAAA 34
+                                 i v    i    v  i      v     
+  (A)n#Simple_r          1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 34
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (3/3)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+20 9.16 0.00 2.78 gridss176b_60b 1 37 (82) (AAAAAAG)n#Simple_repeat 1 36 (0) m_b1s252i7
+
+  gridss176b_60          1 AAAAAAGATAAAAGAAAACAAGAAAAAATAAAAATGA 37
+                                   v         -         v     v  
+  (AAAAAAG)n#Si          1 AAAAAAGAAAAAAGAAAA-AAGAAAAAAGAAAAAAGA 36
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/3)
+Gap_init rate = 0.03 (1 / 36), avg. gap size = 1.00 (1 / 1)
+
+46 15.85 0.00 0.00 gridss176b_78b 1 77 (0) (A)n#Simple_repeat 1 77 (0) m_b1s252i5
+
+  gridss176b_78          1 AAAAAATAACAACAAAGATAAAATAGAAGAAGAATAAAAAAAAAAAAAAA 50
+                                 v  v  v   i v    v i  i  i  v               
+  (A)n#Simple_r          1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 50
+
+  gridss176b_78         51 AAAAAAAAAAAAATAAAAAAAAAAAAA 77
+                                        v             
+  (A)n#Simple_r         51 AAAAAAAAAAAAAAAAAAAAAAAAAAA 77
+
+Matrix = Unknown
+Transitions / transversions = 0.57 (4/7)
+Gap_init rate = 0.00 (0 / 76), avg. gap size = 0.0 (0 / 0)
+
+12 19.57 2.86 0.00 gridss176f_110b 1 35 (29) (TTTTGT)n#Simple_repeat 1 36 (0) m_b1s252i4
+
+  gridss176f_11          1 TTTTGTTTTT-TTTTTTATGTGGTTGTTGTTTCTGT 35
+                                     -     vv v v   v      i   
+  (TTTTGT)n#Sim          1 TTTTGTTTTTGTTTTTGTTTTTGTTTTTGTTTTTGT 36
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (1/5)
+Gap_init rate = 0.03 (1 / 34), avg. gap size = 1.00 (1 / 1)
+
+21 0.00 0.00 0.00 gridss176f_194b 1 23 (0) (C)n#Simple_repeat 1 23 (0) m_b1s252i3
+
+  gridss176f_19          1 CCCCCCCCCCCCCCCCCCCCCCC 23
+                                                  
+  (C)n#Simple_r          1 CCCCCCCCCCCCCCCCCCCCCCC 23
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 22), avg. gap size = 0.0 (0 / 0)
+
+521 3.12 0.00 0.00 gridss176f_364b 2 65 (0) AluY_short_#SINE/Alu 1 64 (237) m_b1s502i0
+
+  gridss176f_36          2 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 51
+                                   i                                      i  
+  AluY_short_#S          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  gridss176f_36         52 GGCGGGCGGATCAC 65
+                                         
+  AluY_short_#S         51 GGCGGGCGGATCAC 64
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+12 21.82 2.17 4.44 gridss176f_92b 1 46 (15) (AACA)n#Simple_repeat 1 45 (0) m_b1s252i2
+
+  gridss176f_92          1 AACAAA-AGACAATCAAATCAATCAAACCAAAGGATCAAAAAAAAAA 46
+                                 - i    v    -   v    -    vi v    v   v  
+  (AACA)n#Simpl          1 AACAAACAAACAAACAAA-CAAACAAA-CAAACAAACAAACAAACAA 45
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (2/6)
+Gap_init rate = 0.07 (3 / 45), avg. gap size = 1.00 (3 / 3)
+
+30 0.00 0.00 0.00 gridss176fb_1h 1 26 (0) (AC)n#Simple_repeat 1 26 (0) c_b1s251i3
+
+  gridss176fb_1          1 ACACACACACACACACACACACACAC 26
+                                                     
+  (AC)n#Simple_          1 ACACACACACACACACACACACACAC 26
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 25), avg. gap size = 0.0 (0 / 0)
+
+30 0.00 0.00 0.00 gridss176fb_1o 1 26 (0) (AC)n#Simple_repeat 1 26 (0) c_b1s251i2
+
+  gridss176fb_1          1 ACACACACACACACACACACACACAC 26
+                                                     
+  (AC)n#Simple_          1 ACACACACACACACACACACACACAC 26
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 25), avg. gap size = 0.0 (0 / 0)
+
+40 0.00 0.00 0.00 gridss176fb_48h 1 34 (0) (GT)n#Simple_repeat 1 34 (0) c_b1s251i1
+
+  gridss176fb_4          1 GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT 34
+                                                             
+  (GT)n#Simple_          1 GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT 34
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+40 0.00 0.00 0.00 gridss176fb_48o 1 34 (0) (GT)n#Simple_repeat 1 34 (0) c_b1s251i0
+
+  gridss176fb_4          1 GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT 34
+                                                             
+  (GT)n#Simple_          1 GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT 34
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+24 15.04 7.35 1.39 gridss255b_42b 1 68 (19) (AAAAT)n#Simple_repeat 1 72 (0) m_b1s252i1
+
+  gridss255b_42          1 AAAAACAAATAAAAT--ATTAAATTAAAAT-AAGTAAAA-AAAA-AGTAT 45
+                               vv         -- v    v      -  i     -    - iv  
+  (AAAAT)n#Simp          1 AAAATAAAATAAAATAAAATAAAATAAAATAAAATAAAATAAAATAAAAT 50
+
+  gridss255b_42         46 AAAATAAATAAAAAAAAAAATAA 68
+                                   - v    v       
+  (AAAAT)n#Simp         51 AAAATAAA-ATAAAATAAAATAA 72
+
+Matrix = Unknown
+Transitions / transversions = 0.29 (2/7)
+Gap_init rate = 0.07 (5 / 67), avg. gap size = 1.20 (6 / 5)
+
+368 8.16 0.00 0.00 gridss255f_139b 1 49 (1) AluJb_short_#SINE/Alu 59 107 (195) m_b1s502i1
+
+  gridss255f_13          1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                vi     i         v                          
+  AluJb_short_#         59 GATCACTTGAGCCCAGGAGTTCGAGACCAGCCTGGGCAACATGGTGAAA 107
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 8.66
+Transitions / transversions = 1.00 (2/2)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+17 20.12 0.00 0.00 gridss255f_33b 1 34 (28) (T)n#Simple_repeat 1 34 (0) m_b1s252i0
+
+  gridss255f_33          1 TTTTTTTCTGGGTTTTTTTCTTTTTTTTGTTTTT 34
+                                  i vvv       i        v     
+  (T)n#Simple_r          1 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT 34
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (2/4)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+319 19.05 1.59 1.59 refinement 2 64 (0) AluSc5#SINE/Alu 135 197 (112) [m_b1s502i0]
+
+  refinement             2 GCCGGGCACGGTGGCTCACGCCTGTAATCCCAGC-ACTTTGGGAGGCTGA 50
+                             i    ii      v ii               -   iv  -       
+  AluSc5#SINE/A        135 GCTGGGCGTGGTGGCGCGTGCCTGTAATCCCAGCTACTCGGG-AGGCTGA 183
+
+  refinement            51 GGCGGGCGGATCAC 64
+                              i  v i   i 
+  AluSc5#SINE/A        184 GGCAGGAGAATCGC 197
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 15.13
+Transitions / transversions = 3.00 (9/3)
+Gap_init rate = 0.03 (2 / 62), avg. gap size = 1.00 (2 / 2)
+
+355 15.87 1.59 1.59 refinement 2 64 (0) AluSg#SINE/Alu 135 197 (113) [m_b1s502i0]
+
+  refinement             2 GCCGGGCACGGTGGCTCACGCCTGTAATCCCAGC-ACTTTGGGAGGCTGA 50
+                                  ii      v i                -   iv  -       
+  AluSg#SINE/Al        135 GCCGGGCGTGGTGGCGCGCGCCTGTAATCCCAGCTACTCGGG-AGGCTGA 183
+
+  refinement            51 GGCGGGCGGATCAC 64
+                              i  v i   i 
+  AluSg#SINE/Al        184 GGCAGGAGAATCGC 197
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 11.15
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.03 (2 / 62), avg. gap size = 1.00 (2 / 2)
+
+351 15.87 1.59 1.59 refinement 2 64 (0) AluSp#SINE/Alu 137 199 (114) [m_b1s502i0]
+
+  refinement             2 GCCGGGCACGGTGGCTCACGCCTGTAATCCCAGC-ACTTTGGGAGGCTGA 50
+                                  ii      v  i               -   iv  -       
+  AluSp#SINE/Al        137 GCCGGGCGTGGTGGCGCATGCCTGTAATCCCAGCTACTCGGG-AGGCTGA 185
+
+  refinement            51 GGCGGGCGGATCAC 64
+                              i  v i   i 
+  AluSp#SINE/Al        186 GGCAGGAGAATCGC 199
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 12.90
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.03 (2 / 62), avg. gap size = 1.00 (2 / 2)
+
+355 15.87 1.59 1.59 refinement 2 64 (0) AluSx#SINE/Alu 137 199 (113) [m_b1s502i0]
+
+  refinement             2 GCCGGGCACGGTGGCTCACGCCTGTAATCCCAGC-ACTTTGGGAGGCTGA 50
+                                  ii      v i                -   iv  -       
+  AluSx#SINE/Al        137 GCCGGGCGTGGTGGCGCGCGCCTGTAATCCCAGCTACTCGGG-AGGCTGA 185
+
+  refinement            51 GGCGGGCGGATCAC 64
+                              i  v i   i 
+  AluSx#SINE/Al        186 GGCAGGAGAATCGC 199
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 11.15
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.03 (2 / 62), avg. gap size = 1.00 (2 / 2)
+
+355 15.87 1.59 1.59 refinement 2 64 (0) AluSx3#SINE/Alu 136 198 (113) [m_b1s502i0]
+
+  refinement             2 GCCGGGCACGGTGGCTCACGCCTGTAATCCCAGC-ACTTTGGGAGGCTGA 50
+                                  ii      v i                -   iv  -       
+  AluSx3#SINE/A        136 GCCGGGCGTGGTGGCGCGCGCCTGTAATCCCAGCTACTCGGG-AGGCTGA 184
+
+  refinement            51 GGCGGGCGGATCAC 64
+                              i  v i   i 
+  AluSx3#SINE/A        185 GGCAGGAGAATCGC 198
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 11.15
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.03 (2 / 62), avg. gap size = 1.00 (2 / 2)
+
+355 15.87 1.59 1.59 refinement 2 64 (0) AluSz#SINE/Alu 137 199 (113) [m_b1s502i0]
+
+  refinement             2 GCCGGGCACGGTGGCTCACGCCTGTAATCCCAGC-ACTTTGGGAGGCTGA 50
+                                  ii      v i                -   iv  -       
+  AluSz#SINE/Al        137 GCCGGGCGTGGTGGCGCGCGCCTGTAATCCCAGCTACTCGGG-AGGCTGA 185
+
+  refinement            51 GGCGGGCGGATCAC 64
+                              i  v i   i 
+  AluSz#SINE/Al        186 GGCAGGAGAATCGC 199
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 11.15
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.03 (2 / 62), avg. gap size = 1.00 (2 / 2)
+
+329 17.46 1.59 1.59 refinement 2 64 (0) AluSz6#SINE/Alu 137 199 (113) [m_b1s502i0]
+
+  refinement             2 GCCGGGCACGGTGGCTCACGCCTGTAATCCCAGC-ACTTTGGGAGGCTGA 50
+                                  ii      v i                -   iv  -       
+  AluSz6#SINE/A        137 GCCGGGCGTGGTGGCGCGCGCCTGTAATCCCAGCTACTCGGG-AGGCTGA 185
+
+  refinement            51 GGCGGGCGGATCAC 64
+                              iv v i   i 
+  AluSz6#SINE/A        186 GGCACGAGAATCGC 199
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 13.02
+Transitions / transversions = 1.75 (7/4)
+Gap_init rate = 0.03 (2 / 62), avg. gap size = 1.00 (2 / 2)
+
+448 8.20 3.28 0.00 refinement 1 61 (3) BC200#SINE/Alu 1 63 (82) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTG- 49
+                                   i                          v   v       i -
+  BC200#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCTCTTAGGGAGGCCGA 50
+
+  refinement            50 -AGGCGGGCGGAT 61
+                           -       v    
+  BC200#SINE/Al         51 GAGGCGGGAGGAT 63
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 5.46
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.03 (2 / 60), avg. gap size = 1.00 (2 / 2)
+
+553 6.25 0.00 0.00 refinement 1 64 (0) AluJo#SINE/Alu 1 64 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluJo#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                 v     i 
+  AluJo#SINE/Al         51 GGCGGGAGGATCGC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 2.06
+Transitions / transversions = 3.00 (3/1)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+553 6.25 0.00 0.00 refinement 1 64 (0) AluJr#SINE/Alu 1 64 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluJr#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                 v     i 
+  AluJr#SINE/Al         51 GGCGGGAGGATCGC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 2.06
+Transitions / transversions = 3.00 (3/1)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+553 6.25 0.00 0.00 refinement 1 64 (0) AluJr4#SINE/Alu 1 64 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluJr4#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                 v     i 
+  AluJr4#SINE/A         51 GGCGGGAGGATCGC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 2.06
+Transitions / transversions = 3.00 (3/1)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+553 6.25 0.00 0.00 refinement 1 64 (0) FLAM_C#SINE/Alu 1 64 (79) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  FLAM_C#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                 v     i 
+  FLAM_C#SINE/A         51 GGCGGGAGGATCGC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 2.06
+Transitions / transversions = 3.00 (3/1)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+564 4.76 0.00 0.00 refinement 1 63 (1) AluYb8#SINE/Alu 1 63 (255) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYb8#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCA 63
+                                 i      
+  AluYb8#SINE/A         51 GGCGGGTGGATCA 63
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.94
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 62), avg. gap size = 0.0 (0 / 0)
+
+564 4.76 0.00 0.00 refinement 1 63 (1) AluYb9#SINE/Alu 1 63 (255) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYb9#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCA 63
+                                 i      
+  AluYb9#SINE/A         51 GGCGGGTGGATCA 63
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.94
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 62), avg. gap size = 0.0 (0 / 0)
+
+567 4.69 0.00 0.00 refinement 1 64 (0) AluJb#SINE/Alu 1 64 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluJb#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                 ?     i 
+  AluJb#SINE/Al         51 GGCGGGNGGATCGC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.48
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+567 4.69 0.00 0.00 refinement 1 64 (0) AluYm1#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i          v                           i  
+  AluYm1#SINE/A          1 GGCCGGGCGCGGTGGCTCAAGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYm1#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.90
+Transitions / transversions = 2.00 (2/1)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+569 3.17 0.00 0.00 refinement 1 63 (1) AluYh9#SINE/Alu 1 63 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      v  
+  AluYh9#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCAGA 50
+
+  refinement            51 GGCGGGCGGATCA 63
+                                        
+  AluYh9#SINE/A         51 GGCGGGCGGATCA 63
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.77
+Transitions / transversions = 1.00 (1/1)
+Gap_init rate = 0.00 (0 / 62), avg. gap size = 0.0 (0 / 0)
+
+569 3.17 0.00 0.00 refinement 1 63 (1) AluYh3#SINE/Alu 1 63 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      v  
+  AluYh3#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCAGA 50
+
+  refinement            51 GGCGGGCGGATCA 63
+                                        
+  AluYh3#SINE/A         51 GGCGGGCGGATCA 63
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.77
+Transitions / transversions = 1.00 (1/1)
+Gap_init rate = 0.00 (0 / 62), avg. gap size = 0.0 (0 / 0)
+
+574 4.69 0.00 0.00 refinement 1 64 (0) AluSg4#SINE/Alu 1 64 (246) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSg4#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                 i       
+  AluSg4#SINE/A         51 GGCGGGTGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.91
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+574 4.69 0.00 0.00 refinement 1 64 (0) AluSg7#SINE/Alu 1 64 (245) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSg7#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                 i       
+  AluSg7#SINE/A         51 GGCGGGTGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.91
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+574 4.69 0.00 0.00 refinement 1 64 (0) AluYc3#SINE/Alu 1 64 (236) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i             i                        i  
+  AluYc3#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCTTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYc3#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.91
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+574 4.69 0.00 0.00 refinement 1 64 (0) AluYk11#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                              i    i                                      i  
+  AluYk11#SINE/          1 GGCTGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYk11#SINE/         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.91
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+574 4.69 0.00 0.00 refinement 1 64 (0) AluYg6#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYg6#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                            i            
+  AluYg6#SINE/A         51 GACGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.91
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+574 4.69 0.00 0.00 refinement 1 64 (0) AluYi6#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i             i                        i  
+  AluYi6#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCTTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYi6#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.91
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+574 4.69 0.00 0.00 refinement 1 64 (0) AluYi6_4d#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i             i                        i  
+  AluYi6_4d#SIN          1 GGCCGGGCGCGGTGGCTCACGCTTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYi6_4d#SIN         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.91
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+579 3.12 0.00 0.00 refinement 1 64 (0) AluYh7#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      v  
+  AluYh7#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCAGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYh7#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 1.74
+Transitions / transversions = 1.00 (1/1)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluY#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluY#SINE/Alu          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluY#SINE/Alu         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSc#SINE/Alu 1 64 (245) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSc#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSc#SINE/Al         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSc5#SINE/Alu 1 64 (245) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSc5#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSc5#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSc8#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSc8#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSc8#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSg#SINE/Alu 1 64 (246) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSg#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSg#SINE/Al         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSp#SINE/Alu 1 64 (249) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSp#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSp#SINE/Al         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSq#SINE/Alu 1 64 (249) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSq#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSq#SINE/Al         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSq10#SINE/Alu 1 64 (249) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSq10#SINE/          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSq10#SINE/         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSq2#SINE/Alu 1 64 (249) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSq2#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSq2#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSq4#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSq4#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSq4#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSx#SINE/Alu 1 64 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSx#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSx#SINE/Al         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSx1#SINE/Alu 1 64 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSx1#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSx1#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSx3#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSx3#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSx3#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSx4#SINE/Alu 1 64 (246) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSx4#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSx4#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSz#SINE/Alu 1 64 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSz#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSz#SINE/Al         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluSz6#SINE/Alu 1 64 (248) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluSz6#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluSz6#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYa5#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYa5#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYa5#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYa8#SINE/Alu 1 64 (246) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYa8#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYa8#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYc#SINE/Alu 1 64 (235) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYc#SINE/Al          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYc#SINE/Al         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYd8#SINE/Alu 1 64 (235) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYd8#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYd8#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYk12#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYk12#SINE/          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYk12#SINE/         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYk4#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYk4#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYk4#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYk3#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYk3#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYk3#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYk2#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYk2#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYk2#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYe6#SINE/Alu 1 64 (246) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYe6#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYe6#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYe5#SINE/Alu 1 64 (246) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYe5#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYe5#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYf1#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYf1#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYf1#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+592 3.12 0.00 0.00 refinement 1 64 (0) AluYj4#SINE/Alu 1 64 (247) [m_b1s502i0]
+
+  refinement             1 GGCCGGGCACGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCTGA 50
+                                   i                                      i  
+  AluYj4#SINE/A          1 GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCGA 50
+
+  refinement            51 GGCGGGCGGATCAC 64
+                                         
+  AluYj4#SINE/A         51 GGCGGGCGGATCAC 64
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 0.31
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 63), avg. gap size = 0.0 (0 / 0)
+
+244 14.63 0.00 0.00 refinement 9 49 (0) AluSc#SINE/Alu 65 105 (204) [m_b1s502i1]
+
+  refinement             9 GAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                              v   i   v  v      v     v             
+  AluSc#SINE/Al         65 GAGGTCAAGAGATCGAGACCATCCTGGCCAACATGGTGAAA 105
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 16.35
+Transitions / transversions = 0.20 (1/5)
+Gap_init rate = 0.00 (0 / 40), avg. gap size = 0.0 (0 / 0)
+
+262 12.20 0.00 0.00 refinement 9 49 (0) AluSc5#SINE/Alu 65 105 (204) [m_b1s502i1]
+
+  refinement             9 GAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                              v       v  v      v     v             
+  AluSc5#SINE/A         65 GAGGTCAGGAGATCGAGACCATCCTGGCCAACATGGTGAAA 105
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 13.49
+Transitions / transversions = 0.00 (0/5)
+Gap_init rate = 0.00 (0 / 40), avg. gap size = 0.0 (0 / 0)
+
+288 9.76 0.00 0.00 refinement 9 49 (0) AluSg4#SINE/Alu 65 105 (205) [m_b1s502i1]
+
+  refinement             9 GAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                              v          v            v   v         
+  AluSg4#SINE/A         65 GAGGTCAGGAGTTCGAGACCAGCCTGGCCAAGATGGTGAAA 105
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 10.56
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.00 (0 / 40), avg. gap size = 0.0 (0 / 0)
+
+289 9.76 0.00 0.00 refinement 9 49 (0) AluSg7#SINE/Alu 65 105 (204) [m_b1s502i1]
+
+  refinement             9 GAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                              v          v            v   v         
+  AluSg7#SINE/A         65 GAGGTCAGGAGTTCAAGACCAGCCTGGCCAAGATGGTGAAA 105
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 10.56
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.00 (0 / 40), avg. gap size = 0.0 (0 / 0)
+
+296 9.76 0.00 0.00 refinement 9 49 (0) AluSx4#SINE/Alu 65 105 (205) [m_b1s502i1]
+
+  refinement             9 GAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                              v          v            v   i         
+  AluSx4#SINE/A         65 GAGGTCAGGAGTTCGAGACCAGCCTGGCCAATATGGTGAAA 105
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 10.46
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.00 (0 / 40), avg. gap size = 0.0 (0 / 0)
+
+314 7.32 0.00 0.00 refinement 9 49 (0) AluSg#SINE/Alu 65 105 (205) [m_b1s502i1]
+
+  refinement             9 GAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                              v          v            v             
+  AluSg#SINE/Al         65 GAGGTCAGGAGTTCGAGACCAGCCTGGCCAACATGGTGAAA 105
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 7.75
+Transitions / transversions = 0.00 (0/3)
+Gap_init rate = 0.00 (0 / 40), avg. gap size = 0.0 (0 / 0)
+
+314 7.32 0.00 0.00 refinement 9 49 (0) AluSq4#SINE/Alu 65 105 (206) [m_b1s502i1]
+
+  refinement             9 GAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                              v          v            v             
+  AluSq4#SINE/A         65 GAGGTCAGGAGTTCGAGACCAGCCTGGCCAACATGGTGAAA 105
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 7.75
+Transitions / transversions = 0.00 (0/3)
+Gap_init rate = 0.00 (0 / 40), avg. gap size = 0.0 (0 / 0)
+
+314 7.32 0.00 0.00 refinement 9 49 (0) AluSx3#SINE/Alu 65 105 (206) [m_b1s502i1]
+
+  refinement             9 GAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                              v          v            v             
+  AluSx3#SINE/A         65 GAGGTCAGGAGTTCGAGACCAGCCTGGCCAACATGGTGAAA 105
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 7.75
+Transitions / transversions = 0.00 (0/3)
+Gap_init rate = 0.00 (0 / 40), avg. gap size = 0.0 (0 / 0)
+
+270 16.67 0.00 0.00 refinement 8 49 (0) BC200#SINE/Alu 68 109 (36) [m_b1s502i1]
+
+  refinement             8 TGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                i         v     v          i  i i  i 
+  BC200#SINE/Al         68 TGAGCCCAGGAGTTCGAGACCTGCCTGGGCAATATAGCGAGA 109
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 16.41
+Transitions / transversions = 2.50 (5/2)
+Gap_init rate = 0.00 (0 / 41), avg. gap size = 0.0 (0 / 0)
+
+298 18.37 0.00 0.00 refinement 1 49 (0) AluJr#SINE/Alu 59 107 (205) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                               ivi    vi         v                   i i  i 
+  AluJr#SINE/Al         59 GATCGCTTGAGGCCAGGAGTTCGAGACCAGCCTGGGCAACATAGCGAGA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 16.51
+Transitions / transversions = 2.00 (6/3)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+298 18.37 0.00 0.00 refinement 1 49 (0) AluJr4#SINE/Alu 59 107 (205) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                               ivi    vi         v                   i i  i 
+  AluJr4#SINE/A         59 GATCGCTTGAGGCCAGGAGTTCGAGACCAGCCTGGGCAACATAGCGAGA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 16.51
+Transitions / transversions = 2.00 (6/3)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+305 14.29 0.00 0.00 refinement 1 49 (0) AluSp#SINE/Alu 59 107 (206) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                v     v  i       v           iv        v    
+  AluSp#SINE/Al         59 GATCACCTGAGGTCGGGAGTTCGAGACCAGCCTGACCAACATGGAGAAA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 13.65
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+318 14.29 0.00 0.00 refinement 1 49 (0) AluSz6#SINE/Alu 59 107 (205) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                vi    vi         v            v        i    
+  AluSz6#SINE/A         59 GATCACTTGAGGCCAGGAGTTCGAGACCAGCCTGGCCAACATGGCGAAA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 13.61
+Transitions / transversions = 0.75 (3/4)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+324 16.33 0.00 0.00 refinement 1 49 (0) AluJo#SINE/Alu 59 107 (205) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                               ivi     i         v                   i i  i 
+  AluJo#SINE/Al         59 GATCGCTTGAGCCCAGGAGTTCGAGACCAGCCTGGGCAACATAGCGAGA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 14.06
+Transitions / transversions = 3.00 (6/2)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+324 16.33 0.00 0.00 refinement 1 49 (0) FLAM_A#SINE/Alu 58 106 (36) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                               ivi     i         v                   i i  i 
+  FLAM_A#SINE/A         58 GATCGCTTGAGCCCAGGAGTTCGAGACCAGCCTGGGCAACATAGCGAGA 106
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 14.06
+Transitions / transversions = 3.00 (6/2)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+324 16.33 0.00 0.00 refinement 1 49 (0) FLAM_C#SINE/Alu 59 107 (36) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                               ivi     i         v                   i i  i 
+  FLAM_C#SINE/A         59 GATCGCTTGAGCCCAGGAGTTCGAGACCAGCCTGGGCAACATAGCGAGA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 14.06
+Transitions / transversions = 3.00 (6/2)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+346 10.20 0.00 0.00 refinement 1 49 (0) AluSz#SINE/Alu 59 107 (205) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                vi    v          v            v             
+  AluSz#SINE/Al         59 GATCACTTGAGGTCAGGAGTTCGAGACCAGCCTGGCCAACATGGTGAAA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 10.99
+Transitions / transversions = 0.25 (1/4)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+356 12.24 0.00 0.00 refinement 1 49 (0) AluJb#SINE/Alu 59 107 (205) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                               ivi     i         v                     i    
+  AluJb#SINE/Al         59 GATCGCTTGAGCCCAGGAGTTCGAGACCAGCCTGGGCAACATGGCGAAA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 9.13
+Transitions / transversions = 2.00 (4/2)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+364 8.16 0.00 0.00 refinement 1 49 (0) AluSq#SINE/Alu 59 107 (206) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                v     v          v            v             
+  AluSq#SINE/Al         59 GATCACCTGAGGTCAGGAGTTCGAGACCAGCCTGGCCAACATGGTGAAA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 8.71
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+364 8.16 0.00 0.00 refinement 1 49 (0) AluSq10#SINE/Alu 59 107 (206) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                v     v          v            v             
+  AluSq10#SINE/         59 GATCACCTGAGGTCAGGAGTTCGAGACCAGCCTGGCCAACATGGTGAAA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 8.71
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+364 8.16 0.00 0.00 refinement 1 49 (0) AluSq2#SINE/Alu 59 107 (206) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                v     v          v            v             
+  AluSq2#SINE/A         59 GATCACCTGAGGTCAGGAGTTCGAGACCAGCCTGGCCAACATGGTGAAA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 8.71
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+364 8.16 0.00 0.00 refinement 1 49 (0) AluSx#SINE/Alu 59 107 (205) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                v     v          v            v             
+  AluSx#SINE/Al         59 GATCACCTGAGGTCAGGAGTTCGAGACCAGCCTGGCCAACATGGTGAAA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 8.71
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+364 8.16 0.00 0.00 refinement 1 49 (0) AluSx1#SINE/Alu 59 107 (205) [m_b1s502i1]
+
+  refinement             1 GATCAGCTGAGCTCAGGAGTTCCAGACCAGCCTGGGCAACATGGTGAAA 49
+                                v     v          v            v             
+  AluSx1#SINE/A         59 GATCACCTGAGGTCAGGAGTTCGAGACCAGCCTGGCCAACATGGTGAAA 107
+
+Matrix = 18p43g.matrix
+Kimura (with divCpGMod) = 8.71
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.00 (0 / 48), avg. gap size = 0.0 (0 / 0)
+
+## Total Sequences: 31
+## Total Length: 2156
+## Total NonMask ( excluding >20bp runs of N/X bases ): 2156
+## Total NonSub ( excluding all non ACGT bases ):2156
+RepeatMasker version 4.1.2-p1 , default mode
+run with rmblastn version 2.11.0+
+RM Library: CONS-Dfam_3.3

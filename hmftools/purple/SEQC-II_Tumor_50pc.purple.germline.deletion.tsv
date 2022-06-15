@@ -1,0 +1,3 @@
+gene	chromosome	regionStart	regionEnd	depthWindowCount	exonStart	exonEnd	detectionMethod	germlineStatus	tumorStatus	germlineCopyNumber	tumorCopyNumber	filter	cohortFrequency	reported
+RET;ARID5B;ZMIZ1;BMPR1A	chr10	40640102	87723000	37322	1	20	SEGMENT	HOM_DELETION	HOM_DELETION	0.00	0.00	PASS	0	true
+NF1;RAD51D;CDK12;ERBB2;TOP2A;STAT5B;STAT3;BRCA1;KANSL1;SPOP;RNF43;RAD51C	chr17	24849830	59739000	25736	1	58	SEGMENT	HOM_DELETION	HOM_DELETION	0.00	0.00	PASS	0	true
